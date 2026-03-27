@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+//er1casant0s-GH
+/*https://classroom.github.com/classrooms/271604332-er1casant0s-classroom-555452*/
 int main()
 {
     //Estados
